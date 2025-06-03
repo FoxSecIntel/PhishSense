@@ -30,6 +30,7 @@ Sets up required services
 Step 2 : Verify Installation
 ```bash
 ollama --version
+sudo systemctl stop ollama
 ```
 Step3 : Pull your first model
 ```bash
