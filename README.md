@@ -69,7 +69,7 @@ MITRE ATT&CK Techniques:
 
 Risk Score: 9/10
 ## 4.0 🧩 Project Structure
-phishsense/
+phishsense/  
 ├── .gitignore  
 ├── requirements.txt  
 ├── README.md  
