@@ -17,6 +17,21 @@ PhishSense is a lightweight AI-based phishing analysis tool that uses a local LL
 
 ### 1. 🛠️ Install Ollama and pull the model
 
+Step 1  
+Open your terminal and run:
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+This:
+Downloads the latest ollama binary  
+Installs it to /usr/local/bin/ollama  
+Sets up required services  
+
+Step 2 : Verify Installation
+```bash
+ollama --version
+```
+Step3 : Pull your first model
 ```bash
 # Pull a model using Ollama
 ollama pull mistral
