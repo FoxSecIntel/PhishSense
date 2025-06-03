@@ -1,0 +1,11 @@
+Subject: Urgent: Your account has been compromised!
+
+Dear user,
+
+We detected suspicious login attempts to your account. Please reset your password immediately at the link below:
+http://login.microsoft-reset.com
+
+Failure to act in 24 hours will lead to account suspension.
+
+Sincerely,
+Microsoft Support
