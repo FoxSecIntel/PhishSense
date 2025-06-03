@@ -1,3 +1,7 @@
+![Maintained](https://img.shields.io/badge/status-maintained-brightgreen)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Local LLM](https://img.shields.io/badge/LLM-Ollama-informational)
+
 # 🎣 PhishSense
 
 PhishSense is a lightweight AI-based phishing analysis tool that uses a local LLM (via Ollama) to:
