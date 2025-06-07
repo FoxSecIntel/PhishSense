@@ -49,10 +49,14 @@ python src/phishsense.py src/example_email.txt
 ```
 
 ## 2. 📥 Clone or download this repository
-If you're using GitHub web only, click “Download ZIP” and extract it.
+```bash
+git clone https://github.com/FoxSecIntel/GoogleAndShodanDorking.git
+```
 
 ## 3. 🕵️ Run PhishSense on a sample email
+```bash
 python src/phishsense.py src/example_email.txt  
+```
 You should get an output like:
 
 --- PHISHSENSE REPORT ---
