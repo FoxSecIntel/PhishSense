@@ -94,6 +94,6 @@ No API keys or cloud LLMs.
 Ideal for security-conscious environments and offline SOCs.
 
 ## 📄 License
-MIT — free for personal or commercial use.
+MIT - free for personal or commercial use.
 
 
