@@ -47,7 +47,7 @@ We’ve implemented **AI guardrails** to protect the user, the system, and the b
 ## 👨‍🏫 For Analysts: Key Takeaways
 
 - **Trust, but verify**: LLM output is fast and useful, but must be validated
-- **Understand the limits**: This tool is not a silver bullet—it’s a co-pilot
+- **Understand the limits**: This tool is not a silver bullet; it’s a co-pilot
 - **Report anomalies**: If you notice odd output, log and escalate it
 - **Keep it local**: PhishSense is built for offline use; don’t expose data externally
 
