@@ -50,7 +50,7 @@ python src/phishsense.py src/example_email.txt
 
 ## 2. 📥 Clone or download this repository
 ```bash
-git clone [https://github.com/FoxSecIntel/PhishSense.git](https://github.com/FoxSecIntel/PhishSense)
+git clone https://github.com/FoxSecIntel/PhishSense.git
 ```
 
 ## 3. 🕵️ Run PhishSense on a sample email
