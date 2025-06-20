@@ -11,7 +11,11 @@ PhishSense is a lightweight AI-based phishing analysis tool that uses a local LL
 - Suggest relevant MITRE ATT&CK techniques
 - Provide a risk score (1–10)
 
-📌 [Security Guardrails and AI Safety Overview](SECURITY_GUARDRails.md)
+## 🔐 Security Guardrails
+
+PhishSense includes built-in AI safety and security controls to prevent misuse, injection, or unsafe LLM output.
+
+📘 [View Security Guardrails and Analyst Briefing](SECURITY_GUARDRAILS.md)
 
 ## 🧠 Requirements
 
