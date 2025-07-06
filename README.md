@@ -33,9 +33,9 @@ Open your terminal and run:
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 This:   
-Downloads the latest ollama binary  
-Installs it to /usr/local/bin/ollama  
-Sets up required services  
+-Downloads the latest ollama binary  
+-Installs it to /usr/local/bin/ollama  
+-Sets up required services  
 
 Step 2 : Verify Installation
 ```bash
