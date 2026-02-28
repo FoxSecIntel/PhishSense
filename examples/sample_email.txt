@@ -1,0 +1,14 @@
+Subject: Action required - mailbox verification
+From: IT Support <it-security@example-helpdesk.com>
+
+Hello,
+
+We detected unusual sign-in activity and your mailbox will be suspended unless you verify within 30 minutes.
+
+Please login now:
+https://example-helpdesk-login.com/verify
+
+If this was not you, contact support immediately.
+
+Regards,
+IT Security Team

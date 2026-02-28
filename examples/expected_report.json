@@ -1,0 +1,13 @@
+{
+  "summary": "Likely phishing email using urgency and account suspension pressure.",
+  "iocs": [
+    "https://example-helpdesk-login.com/verify",
+    "it-security@example-helpdesk.com"
+  ],
+  "mitre": [
+    "T1566.001 Spearphishing Attachment",
+    "T1566.002 Spearphishing Link"
+  ],
+  "risk_score": "High",
+  "raw_report": "Example output format placeholder for documentation and QA demos."
+}
