@@ -19,8 +19,8 @@ PhishSense is a lightweight AI-based phishing analysis tool that uses a local LL
 
 ## Demo media
 
-- Screenshot set: `docs/media/` (recommended next add: sample report + IOC extraction view)
-- Demo GIF target: 30-second run showing sample email analysis to JSON export
+- Screenshot: ![PhishSense terminal screenshot](docs/media/terminal-screenshot.png)
+- Demo GIF: ![PhishSense demo](docs/media/demo.gif)
 
 ## 🔐 Security Guardrails
 
