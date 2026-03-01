@@ -1,26 +1,26 @@
-![Maintained](https://img.shields.io/badge/status-maintained-brightgreen)
+![Status](https://img.shields.io/badge/status-maintained-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
-![Local LLM](https://img.shields.io/badge/LLM-Ollama-informational)
 
-# 🎣 PhishSense
+# PhishSense
 
-PhishSense is a lightweight AI-based phishing analysis tool that uses a local LLM (via Ollama) to:
+A local phishing analysis utility for rapid IOC extraction and analyst-focused risk scoring.
 
-- Explain what a phishing email is trying to do
-- Extract IOCs (URLs, domains, IPs)
-- Suggest relevant MITRE ATT&CK techniques
-- Provide a risk score (1–10)
+## Why this project
 
-## Why this matters
-
-- **Impact:** Helps analysts classify phishing faster with structured, repeatable output.
-- **Scale:** Runs locally with optional JSON output, suitable for analyst pipelines.
+- **Impact:** Improves phishing triage speed with structured and repeatable analysis output.
+- **Scale:** Runs locally and supports JSON workflows for analyst tooling and automation.
 - **Use case:** SOC inbox triage, phishing investigations, and threat reporting.
 
 ## Demo media
 
 - Screenshot: ![PhishSense terminal screenshot](docs/media/terminal-screenshot.png)
 - Demo GIF: ![PhishSense demo](docs/media/demo.gif)
+
+## Capability snapshot
+
+- IOC extraction from suspicious email content
+- ATT&CK mapping suggestions for analyst context
+- Risk scoring and report-friendly output
 
 ## 🔐 Security Guardrails
 
