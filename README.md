@@ -11,6 +11,17 @@ PhishSense is a lightweight AI-based phishing analysis tool that uses a local LL
 - Suggest relevant MITRE ATT&CK techniques
 - Provide a risk score (1–10)
 
+## Why this matters
+
+- **Impact:** Helps analysts classify phishing faster with structured, repeatable output.
+- **Scale:** Runs locally with optional JSON output, suitable for analyst pipelines.
+- **Use case:** SOC inbox triage, phishing investigations, and threat reporting.
+
+## Demo media
+
+- Screenshot set: `docs/media/` (recommended next add: sample report + IOC extraction view)
+- Demo GIF target: 30-second run showing sample email analysis to JSON export
+
 ## 🔐 Security Guardrails
 
 PhishSense includes built-in AI safety and security controls to prevent misuse, injection, or unsafe LLM output.
