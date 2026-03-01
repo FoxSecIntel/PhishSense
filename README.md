@@ -102,4 +102,11 @@ Ideal for security-conscious environments and offline SOCs.
 ## 📄 License
 MIT - free for personal or commercial use.
 
+## Quick Demo
+
+```bash
+# 1) Run a core check
+# 2) Request JSON output
+# 3) Pipe into jq for analyst workflows
+```
 
