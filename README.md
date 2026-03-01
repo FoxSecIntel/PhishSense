@@ -22,21 +22,21 @@ A local phishing analysis utility for rapid IOC extraction and analyst-focused r
 - ATT&CK mapping suggestions for analyst context
 - Risk scoring and report-friendly output
 
-## 🔐 Security Guardrails
+## Security Guardrails
 
 PhishSense includes built-in AI safety and security controls to prevent misuse, injection, or unsafe LLM output.
 
 📘 [View Security Guardrails and Analyst Briefing](SECURITY_GUARDRAILS.md)
 
-## 🧠 Requirements
+## Requirements
 
 - 🖥️ Python 3.8+
 - 🦙 [Ollama](https://ollama.com) installed and running locally
 - 💾 LLM model pulled (e.g. `mistral`)
 
-## 🚀 Quickstart
+## Quickstart
 
-### 1. 🛠️ Install Ollama and pull the model
+### 1. Install Ollama and pull the model
 
 Step 1  
 Open your terminal and run:
@@ -65,12 +65,12 @@ ollama run mistral
 python src/phishsense.py src/example_email.txt
 ```
 
-## 2. 📥 Clone or download this repository
+## 2. Clone or download this repository
 ```bash
 git clone https://github.com/FoxSecIntel/PhishSense.git
 ```
 
-## 3. 🕵️ Run PhishSense on a sample email
+## 3. Run PhishSense on a sample email
 ```bash
 python src/phishsense.py src/example_email.txt  
 ```
@@ -89,7 +89,7 @@ MITRE ATT&CK Techniques:
 - T1204.002 (User Execution: Malicious Link)
 
 Risk Score: 9/10
-## 4.0 🧩 Project Structure
+## 4.0 Project Structure
 phishsense/  
 ├── .gitignore  
 ├── requirements.txt  
@@ -99,18 +99,18 @@ phishsense/
     ├── prompt_template.txt    # Prompt used to drive LLM output  
     └── example_email.txt      # Sample phishing input  
 
-## 5.0 ✏️ Customisation
+## 5.0 Customisation
 Edit src/prompt_template.txt to:
 Change tone or language
 Add or remove specific fields
 Make the output format fit your team/SIEM/SOAR system
 
-## 🔐 Privacy & Security
+## Privacy & Security
 No data leaves your laptop.
 No API keys or cloud LLMs.
 Ideal for security-conscious environments and offline SOCs.
 
-## 📄 License
+## License
 MIT - free for personal or commercial use.
 
 ## Quick Demo
